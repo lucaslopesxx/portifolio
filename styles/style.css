@@ -160,7 +160,7 @@ footer{
     }
 
     .apresentacao__conteudo__titulo{
-        padding: 3% 0;
+        padding-bottom: 3%;
     }
 
     .apresentacao__links{
@@ -168,8 +168,9 @@ footer{
     }
 
     .apresentacao__imagem{
-        padding-top: 3%;
-        width: 70%;
+        padding-top: 5%;
+        padding-bottom: 2%;
+        width: 80%;
     }
 
     .rodape{
