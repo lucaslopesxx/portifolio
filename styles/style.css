@@ -170,4 +170,8 @@ footer{
     .apresentacao__imagem{
         padding-top: 3%;
     }
+
+    .rodape{
+        font-size: 1rem;
+    }
 }
