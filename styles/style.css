@@ -24,7 +24,7 @@ body{
 }
 
 header{
-    background-color: var(--cor-preto);
+    /* background-color: var(--cor-preto); */
     align-items: center;
 }
 
@@ -143,7 +143,7 @@ footer{
 
 @media (max-width: 1280px){
     .cabecalho{
-        padding: 10%;
+        padding: 5%;
     }
     
     .cabecalho__menu{
@@ -157,5 +157,13 @@ footer{
     
     .apresentacao__conteudo{
         width: auto;
+    }
+    
+    .apresentacao__conteudo__titulo{
+        padding: 3% 0;
+    }
+
+    .apresentacao__links{
+        padding: 3% 0;
     }
 }
