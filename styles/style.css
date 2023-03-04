@@ -158,12 +158,16 @@ footer{
     .apresentacao__conteudo{
         width: auto;
     }
-    
+
     .apresentacao__conteudo__titulo{
         padding: 3% 0;
     }
 
     .apresentacao__links{
         padding: 3% 0;
+    }
+
+    .apresentacao__imagem{
+        padding-top: 3%;
     }
 }
